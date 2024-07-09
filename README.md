@@ -1,3 +1,41 @@
+<div align="center">
+<h1>Shahjalal University of Science and Technology, Sylhet </h1><br>
+Department of <br>
+<h2>Computer Science & Engineering</h2>
+
+ 
+![image](https://github.com/al-amin057/micro_project/assets/104164316/b8b92d25-1952-4323-9200-d9c535655aa4)
+
+
+</div>
+<div>
+Course Name	: <b>Microprocessor and Interfacing Lab</b> <br>
+Course Code		: <b>CSE-368</b> <br>
+Group			: <b>07</b><br>
+Project Title: <b>Automated Car Parking System</b>
+
+## Team Members
+Al-Amin (**2020331057**) <br>
+Md. Sakib Hassan (**2020331109**) <br>
+Mahmudul Ferdous (**2020331046**) <br>
+Riaz Ahmed (**2020331079**) <br>
+MD Rafi  (**2019331096**) <br>
+</div>
+
+
+
+# Automated Car Parking System
+Al-Amin Hossain 
+<br>
+Department of Computer Science and Engineering, Shahjalal University of Science and Technology, Sylhet
+3114, Bangladesh
+<hr>
+<p align = "justify">We are pleased to present our project, completed under the guidance of <a href = "https://www.sust.edu/d/cse/faculty-profile-detail/859">Abdullah Al Noman</a> Sir, Lecturer, department of Computer Science & Engineering, SUST, as part of the "Microprocessor and Interfacing Lab" course (Course Code: CSE-368). Our team, Group 07, consisting of five members, has diligently worked on this project, combining our skills and knowledge to achieve the objectives set forth in this course. We are excited to share our findings and the outcomes of our hard work.
+
+
+![image](https://github.com/al-amin057/micro_project/assets/104164316/6663a377-93a7-4840-bc3e-fe63bb02c0e0)
+
+
 # Introduction
 The automated car parking system aims to streamline parking management using microprocessor and microcontroller technology. The system automates the detection of parking space availability and controls a gate mechanism to manage vehicle entry.
 
