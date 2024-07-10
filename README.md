@@ -27,8 +27,7 @@ Project Title: <b>Automated Car Parking System</b>
 # Automated Car Parking System
 Al-Amin Hossain 
 <br>
-Department of Computer Science and Engineering, Shahjalal University of Science and Technology, Sylhet
-3114, Bangladesh
+Department of Computer Science and Engineering, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh
 <hr>
 <p align = "justify">We are pleased to present our project, completed under the guidance of <a href = "https://www.sust.edu/d/cse/faculty-profile-detail/859">Abdullah Al Noman</a> Sir, Lecturer, department of Computer Science & Engineering, SUST, as part of the "Microprocessor and Interfacing Lab" course (Course Code: CSE-368). Our team, Group 07, consisting of five members, has diligently worked on this project, combining our skills and knowledge to achieve the objectives set forth in this course. We are excited to share our findings and the outcomes of our hard work. </p>
 Here is our Project <a href="https://github.com/al-amin057/micro_project/blob/main/Project%20Proposal.pdf">Proposal Document</a>. Today we are presenting our project. <hr>
@@ -129,7 +128,7 @@ Here is the explanation of <a href="https://github.com/al-amin057/micro_project/
    ```
    - The LCD is initialized with an I2C address of 0x27 and dimensions of 16 columns and 2 rows.
    - A Servo object is created for controlling the servo motor.
-   - 
+     
 3. IR Sensor and Slot Definitions
    ```cpp
    const int IR1 = 8;
@@ -278,7 +277,8 @@ The system was tested with a total of 4 parking slots. The following data was re
    
 # Results
 
-The Automated Car Parking System successfully managed the entry and exit of vehicles, accurately updating the available parking slots on the LCD display. The IR Proximity Sensors reliably detected vehicle presence, and the Arduino-controlled servo motor effectively operated the gate, opening and closing as necessary. The system was able to maintain an accurate count of available parking slots, demonstrating its effectiveness in real-time parking management.
+<p align = "justify">The Automated Car Parking System successfully managed the entry and exit of vehicles, accurately updating the available parking slots on the LCD display. The IR Proximity Sensors reliably detected vehicle presence, and the Arduino-controlled servo motor effectively operated the gate, opening and closing as necessary. The system was able to maintain an accurate count of available parking slots, demonstrating its effectiveness in real-time parking management.
+</p>
 
 # Conclusion
 
