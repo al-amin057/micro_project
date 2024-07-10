@@ -38,10 +38,12 @@ Here is our Project <a href="https://github.com/al-amin057/micro_project/blob/ma
 
 
 # Abstract
-The automated car parking system aims to streamline parking management using microprocessor and microcontroller technology. The system automates the detection of parking space availability and controls a gate mechanism to manage vehicle entry.
+<div align = "justify">The automated car parking system aims to streamline parking management using microprocessor and microcontroller technology. The system automates the detection of parking space availability and controls a gate mechanism to manage vehicle entry.
+</div>
 
 # Introduction
-This project presents an Automated Car Parking System using an Arduino UNO microcontroller. The system is designed to streamline the process of vehicle entry and exit in parking facilities by automating gate control and parking space management. It employs IR Proximity Sensors to detect vehicle presence, a 16x2 LCD i2c Display to show real-time parking status, and a Servo Motor to control the gate. The Arduino processes the sensor inputs to update the parking availability displayed on the LCD and to manage the gate's opening and closing actions. This project aims to provide an efficient and user-friendly solution for managing parking spaces, reducing human intervention, and enhancing overall parking efficiency. The system can be scaled and modified to accommodate various parking lot sizes and configurations, making it a versatile tool for modern parking management.
+<div align = "justify">This project presents an Automated Car Parking System using an Arduino UNO microcontroller. The system is designed to streamline the process of vehicle entry and exit in parking facilities by automating gate control and parking space management. It employs IR Proximity Sensors to detect vehicle presence, a 16x2 LCD i2c Display to show real-time parking status, and a Servo Motor to control the gate. The Arduino processes the sensor inputs to update the parking availability displayed on the LCD and to manage the gate's opening and closing actions. This project aims to provide an efficient and user-friendly solution for managing parking spaces, reducing human intervention, and enhancing overall parking efficiency. The system can be scaled and modified to accommodate various parking lot sizes and configurations, making it a versatile tool for modern parking management.
+</div>
 
 # Components and Their Functions
 
