@@ -17,7 +17,7 @@ Project Title: <b>Automated Car Parking System</b>
 ## Team Members
 1. Al-Amin (**2020331057**)
 2. Md. Sakib Hassan (**2020331109**)
-3. Mahmudul Ferdous (**2020331046**)
+3. Mahmudul Ferdous (**2020331037**)
 4. Riaz Ahmed (**2020331079**)
 5. MD Rafi  (**2019331096**)
 </div>
@@ -57,7 +57,7 @@ This project presents an Automated Car Parking System using an Arduino UNO micro
 3. **Display Update:** Updates the LCD display with the status of the parking space (Available or Occupied).
 4. **Gate Control:** Opens the gate if the parking space is available and closes it when the space is occupied.
 
-# Circuit Diagram:
+# Circuit Diagram
 ![image](https://github.com/al-amin057/micro_project/assets/104164316/4982a980-e33d-411f-b687-7b5e326990f5)
 
 
